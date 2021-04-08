@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alza54&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alza54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Some contributions in 2021:
+
+- [Node.js: Sharp (✨  used by 197k+): exposing Gaussian blur to the API.](https://github.com/lovell/sharp/pull/2527)
+
 <!--
 **alza54/alza54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
