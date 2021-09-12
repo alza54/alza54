@@ -7,6 +7,7 @@
 #### Some contributions in 2021:
 
 - [Node.js: Sharp (✨  used by 197k+): exposing Gaussian blur to the API.](https://github.com/lovell/sharp/pull/2527)
+- [frida-ios-dump-requests: A tool for dumping any iOS application HTTP requests with Frida and Node.js.](https://github.com/alza54/frida-ios-dump-requests)
 
 <!--
 **alza54/alza54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
